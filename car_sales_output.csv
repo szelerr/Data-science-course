@@ -1,0 +1,11 @@
+,Make,Colour,Odometer (KM),Doors,Price,Seats,Consumption (L/100km),Liftime fuel burn (L),Number of wheels,Passed MOT
+0,toyota,White,150043,4,4000,5.0,5.5,8252.365,4,True
+1,honda,Red,87899,4,5000,5.0,4.8,4219.152,4,True
+2,toyota,Blue,32549,3,7000,5.0,5.0,1627.45,4,True
+3,bmw,Black,11179,5,22000,5.0,6.2,693.0980000000001,4,True
+4,nissan,White,213095,4,3500,5.0,6.0,12785.699999999999,4,True
+5,toyota,Green,99213,4,4500,5.0,5.1,5059.862999999999,4,True
+6,honda,Blue,45698,4,7500,5.0,6.9,3153.1620000000003,4,True
+7,honda,Blue,54738,4,7000,5.0,8.2,4488.516,4,True
+8,toyota,White,60000,4,6250,5.0,11.0,6600.0,4,True
+9,nissan,White,31600,4,9700,5.0,5.5,1738.0,4,True
